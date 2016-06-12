@@ -1,4 +1,4 @@
 # SDL2_Stuff
 
-Empty for now
+Empty for now\n
 Some things I find interesting
